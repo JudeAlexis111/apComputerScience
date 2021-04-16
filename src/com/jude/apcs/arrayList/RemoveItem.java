@@ -1,9 +1,7 @@
-package com.jude.apcs.ArrayList;
+package com.jude.apcs.arrayList;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Locale;
 
 public class RemoveItem {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.jude.apcs.ArrayList;
+package com.jude.apcs.arrayList;
 
 import java.util.ArrayList;
 import java.util.List;

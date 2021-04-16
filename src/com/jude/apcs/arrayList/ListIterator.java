@@ -1,6 +1,4 @@
-package com.jude.apcs.ArrayList;
-
-import com.sun.org.apache.xerces.internal.xs.StringList;
+package com.jude.apcs.arrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

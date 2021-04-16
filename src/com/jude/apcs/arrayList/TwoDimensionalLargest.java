@@ -1,4 +1,4 @@
-package com.jude.apcs.ArrayList;
+package com.jude.apcs.arrayList;
 
 public class TwoDimensionalLargest {
     public static void main(String args[]){
